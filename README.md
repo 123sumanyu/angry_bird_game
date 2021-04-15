@@ -1,1 +1,2 @@
-# angry_bird_game
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
